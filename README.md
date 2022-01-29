@@ -1,2 +1,2 @@
 # Ingenieria-computacion
-Proyectos escolares
+Proyectos escolares para curriculum vitae.
